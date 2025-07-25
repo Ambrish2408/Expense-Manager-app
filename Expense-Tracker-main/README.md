@@ -56,12 +56,11 @@ The application will start running at `http://localhost:3000`.
 
 ## Live Demo
 
-Check out the live demo of the Expense Tracker [here](https://expense-tracker-in.netlify.app/).
+Check out the live demo of the Expense Tracker [here]().
 
 ## Screenshots
 
-![Screenshot 2024-09-10 195122](https://github.com/user-attachments/assets/16c2e12b-e138-4815-8fe9-587b44a30221)
-
+![Screenshot 2024-09-10 195122]()
 
 
 ## Conclusion
@@ -74,4 +73,4 @@ The Expense Tracker project demonstrates how to manage lists and state effective
 
 ### Author
 
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
+**Ambrish Yadav** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/Ambrish2408).
