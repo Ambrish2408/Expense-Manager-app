@@ -1,5 +1,5 @@
 
-# Expense Manager Website
+# Expense Tracker Website
 
 ## Introduction
 
