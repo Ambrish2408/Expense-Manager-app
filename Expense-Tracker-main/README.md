@@ -60,7 +60,8 @@ Check out the live demo of the Expense Tracker [here]().
 
 ## Screenshots
 
-![Screenshot 2024-09-10 195122]()
+![Screenshot 2024-09-10 195122](![Uploading Expense Manger Screenshot.png…]()
+)
 
 
 ## Conclusion
