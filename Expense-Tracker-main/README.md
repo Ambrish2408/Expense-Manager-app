@@ -1,5 +1,5 @@
 
-# Expense Tracker Website
+# Expense Manager Website
 
 ## Introduction
 
@@ -46,7 +46,8 @@ The project structure follows a typical React project layout:
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/abhishekboadgurjar/expense-tracker.git
+git clone https://github.com/Ambrish2408/Expense-Manager-app.git
+
 cd expense-tracker
 npm install
 npm start
@@ -60,8 +61,7 @@ Check out the live demo of the Expense Tracker [here]().
 
 ## Screenshots
 
-![Screenshot 2024-09-10 195122](![Uploading Expense Manger Screenshot.png…]()
-)
+<img width="1883" height="717" alt="Expense Manger Screenshot" src="https://github.com/user-attachments/assets/7d604b7d-6154-42c0-be0d-b6c96a27c22c" />
 
 
 ## Conclusion
